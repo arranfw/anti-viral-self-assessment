@@ -154,7 +154,9 @@ const NoBenefitExtended: React.FC = () => (
           </a>
         </p>
       </li>
-      <li>Call 8-1-1 if your symptoms get worse</li>
+      <li>
+        Call <a href='tel:+811'>8-1-1</a> if your symptoms get worse
+      </li>
     </ul>
 
     <p>
